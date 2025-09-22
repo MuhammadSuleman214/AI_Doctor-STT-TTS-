@@ -483,6 +483,16 @@ Audio Response: [Natural voice synthesis of the doctor's response]
 - **Response Time**: ~3-5 seconds for complete processing
 - **Audio Quality**: High-quality ElevenLabs voice synthesis
 
+### Application Screenshot
+![AI Doctor Application Interface](result.PNG)
+
+**Interface Features:**
+- **Input Section**: Audio recording and image upload
+- **Output Section**: Speech-to-text, doctor's response, and audio playback
+- **Control Buttons**: Clear, Submit, and Flag options
+- **Real-time Processing**: Live transcription and AI analysis
+- **Audio Player**: Built-in audio controls with download option
+
 ---
 
 **Note**: This is a demonstration project for educational purposes. Always consult real medical professionals for actual medical advice.
